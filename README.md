@@ -1,5 +1,5 @@
 # ArchesClimate
-![Alt Text](sst_gif.gif)
+![Alt Text](sst_gif_1.gif)
 ![Alt Text](evaporation_gif.gif)
 
 Generative modeling for decadal prediction
